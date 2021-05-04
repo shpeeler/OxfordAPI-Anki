@@ -1,0 +1,11 @@
+{
+    "app_key": "*",
+    "app_id": "*",
+    "definition": "Definition",
+    "example": "Example",
+    "audio": "Audio",
+    "translation": "Translation",
+    "src_language": "en",
+    "target_language": "de",
+    "audio_directory": "C:/Audios"
+}
